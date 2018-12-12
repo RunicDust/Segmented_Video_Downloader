@@ -1,4 +1,4 @@
-# Segmented_Video_Downloader
+# Segmented Video Downloader
 
 do_processing.py
 Downloading segmented video from vimeo based on master.json url
