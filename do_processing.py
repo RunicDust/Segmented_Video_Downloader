@@ -1,6 +1,6 @@
 from defines import file_with_urls
-from video_downloader import download_segmented_video
-from video_processor import merge_audio_with_video
+from src.video_downloader import download_segmented_video
+from src.video_processor import merge_audio_with_video
 
 number = 1
 
